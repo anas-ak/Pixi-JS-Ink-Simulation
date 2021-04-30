@@ -1,15 +1,15 @@
 body {
     overflow: hidden;
-    background: #6e61f6;
+    background: #81c5e4;
 }
 
 div#hello {
     font-family: monospace;
-    font-size: 13px;
+    font-size: 20px;
     position: absolute;
     text-align: center;
     font-weight: bold;
     width: 100%;
-    bottom: 12px;
-    color: rgba(0, 0, 0, 0.6);
+    bottom: 400px;
+    color: rgba(214, 21, 21, 0.6);
 }
