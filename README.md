@@ -1,5 +1,5 @@
 # Pixi-JS-Ink-Simulation
-
+<img src="inks.gif" />
 Create a class that sets up vertices. <br />
 Declare 5 functions: fracture, morph, travel, draw, drawLayer. <br>
 <ul>
